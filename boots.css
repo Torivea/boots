@@ -1,0 +1,28 @@
+.btn-outline-danger {
+    color: white;
+  }
+  .btn-outline-danger:hover {
+    color: white;
+  }
+
+  .navbar-brand {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+  }
+
+  .nav-link {
+    color: white;
+    font-family:Arial, Helvetica, sans-serif
+  }
+
+  h1 {
+    padding: 20px;
+    background: white;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   border-bottom: solid 2px;
+   text-align: center;
+   font-size: 30px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
